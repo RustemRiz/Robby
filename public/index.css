@@ -1,0 +1,25 @@
+table {
+    box-shadow: 10px 0 30px 5px rgba(0, 0, 0, .7);
+}
+
+h1, h2, .login_title {
+    text-shadow: 2px -1px 5px rgba(10, 0, 0, .7);
+}
+
+.finder {
+    margin-top: 30px;
+}
+
+body {
+    background-color: rgba(200, 200, 200, .3);
+}
+
+#footer {
+    opacity: 0.3;
+}
+
+#footer:hover {
+    opacity: 1;
+}
+
+
