@@ -55,7 +55,7 @@ export default class InputForm extends Component{
 		return (
 			<div>
 				<WelcomeText/>
-				<label>Карта<input type="text" onChange={this.onChangeField.bind(this)} defaultValue='' /></label> 
+				<label>Карта<input type="text" onChange={this.onChangeField.bind(this)} defaultValue='.S..##.T.' /></label> 
 				<br/>				
 				<label>Топливо<input type="text" onChange={this.onChangePower.bind(this)} defaultValue='10' /></label>
 				<br/>		
